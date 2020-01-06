@@ -1,0 +1,19 @@
+{
+  "Configuration": {
+    "DatabaseName": "default",
+    "DatabasePassword": "",
+    "DatabaseType": "HSQLDB",
+    "DatabaseHost": "",
+    "DatabaseUserName": "",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8080/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "CommunityCommons.MergeMultiplePdfs_MaxAtOnce": "10",
+    "UnitTesting.FindJUnitTests": "True",
+    "UnitTesting.RemoteApiPassword": "1",
+    "UnitTesting.RemoteApiEnabled": "False"
+  },
+  "AdminPassword": null
+}
